@@ -1,0 +1,8 @@
+edn_format
+requests
+yfinance
+pandas-ta
+vectorbt
+quantstats
+pytz
+revChatGPT
